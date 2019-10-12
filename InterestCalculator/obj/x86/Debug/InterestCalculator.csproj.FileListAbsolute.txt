@@ -1,0 +1,24 @@
+c:\users\13023437\documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+c:\users\13023437\documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+c:\users\13023437\documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Form1.resources
+c:\users\13023437\documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Properties.Resources.resources
+c:\users\13023437\documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.csproj.GenerateResource.Cache
+c:\users\13023437\documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+c:\users\13023437\documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb
+H:\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+H:\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb
+H:\Projects\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+H:\Projects\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+H:\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Form1.resources
+H:\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Properties.Resources.resources
+H:\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.csprojAssemblyReference.cache
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Form1.resources
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Properties.Resources.resources
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.csproj.GenerateResource.cache
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 7\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb
